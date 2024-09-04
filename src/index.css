@@ -1,7 +1,7 @@
-/* Existing CSS */
+
 body {
     font-family: playfair;
-    background: rgb(255, 237, 240);
+    background: white
   }
   
   .container {
@@ -156,8 +156,8 @@ body {
   footer {
     color: rgb(37, 35, 35);
     background-image: linear-gradient(
-        rgb(240, 206, 232),
-        rgba(238, 209, 228, 0.9)
+        rgb(251, 246, 250),
+        rgba(252, 252, 252, 0.9)
       ),
       url("./images/header.avif");
     background-repeat: no-repeat;
